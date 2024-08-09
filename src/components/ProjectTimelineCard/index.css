@@ -1,1 +1,37 @@
 /* Write your CSS here */
+
+.project-image {
+  width: 100%;
+}
+.project-title-calender-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.calendar-con {
+  display: flex;
+  align-items: center;
+}
+
+.calendar {
+  height: 20px;
+  width: 20px;
+}
+.duration {
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-left: 5px;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.anchor-tag {
+  font-family: 'Roboto';
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+}
